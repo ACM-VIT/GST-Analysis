@@ -1,0 +1,10 @@
+This project aims to find the sentiment of Public on the biggest reform since Independence, mainly the Goods and Service Tax.
+THe components of the projects are as follows:
+
+Twitter API
+
+Facebook API
+
+Text Classiffier using Neural Network:
+
+Newspaper/Websites/blogs Scraping
