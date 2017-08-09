@@ -4,6 +4,12 @@ THe components of the projects are as follows:
 Twitter API
 
 Facebook API
+The process is significantly simplified by using the Datumbox’s Machine Learning API(http://www.datumbox.com/machine-learning-api/). All that one needs to do to perform sentiment analysis on Facebook is call the Graph API search to extract the posts of interest, extract their text and call the Datumbox Sentiment Analysis API to get their classification.
+#Building the Facebook Sentiment Analysis tool:
+	In order to build the Facebook Sentiment Analysis tool you require two things:To use Facebook API in order to fetch the public posts and to evaluate the polarity of the posts based on their keywords. For the first task we will use the Facebook’s Graph API search and for the second the Datumbox API 1.0v.
+#References:
+1)http://blog.datumbox.com/how-to-build-your-own-facebook-sentiment-analysis-tool/
+
 
 Text Classiffier using Neural Network:
 
